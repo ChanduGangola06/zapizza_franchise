@@ -22,7 +22,7 @@ const kOffWhite = Color(0xffF3F4F8);
 double hieght = 926.h;
 double width = 428.w;
 
-const String appBaseUrl = "http://localhost:6013";
+const String appBaseUrl = "https://zapizza-backend.onrender.com";
 
 List<String> orderList = [
   "New Orders",
