@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "928466368841",
+    "firebase_url": "https://zapizza-678d1-default-rtdb.firebaseio.com",
+    "project_id": "zapizza-678d1",
+    "storage_bucket": "zapizza-678d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928466368841:android:94acc5e36bfde11d02c298",
+        "android_client_info": {
+          "package_name": "com.admin.zapizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928466368841-8ubualsm9l4nrdc0hcnjfbt9a008vk8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DvnA0if6C8Knh6VcE5JG95P5AND2pRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928466368841-8ubualsm9l4nrdc0hcnjfbt9a008vk8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928466368841:android:c7e8328cdefa908602c298",
+        "android_client_info": {
+          "package_name": "com.users.zapizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928466368841-nujmfini8jh3td8552mduhaetj2717lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.users.zapizza",
+            "certificate_hash": "67ffccb9d86adbf65cf5c7579dbf2fea597127b5"
+          }
+        },
+        {
+          "client_id": "928466368841-8ubualsm9l4nrdc0hcnjfbt9a008vk8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DvnA0if6C8Knh6VcE5JG95P5AND2pRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928466368841-8ubualsm9l4nrdc0hcnjfbt9a008vk8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
